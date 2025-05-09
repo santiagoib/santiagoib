@@ -1,6 +1,6 @@
-# 👨‍💻 Mettal — Security Researcher & Smart Contract Developer
+#  Mettal — Security Researcher & Smart Contract Developer
 
-I'm an aspiring **Smart Contract Security Researcher** and **DeFi Developer** focused on understanding, building, and securing blockchain protocols. I’m actively learning by auditing real-world code, reproducing vulnerabilities, and developing tooling for secure smart contract development.
+I'm an **Smart Contract Security Researcher** and **DeFi Developer** focused on understanding, building, and securing blockchain protocols. I’m actively learning by auditing real-world code, reproducing vulnerabilities, and developing tooling for secure smart contract development.
 
 I’m currently open to work and looking to collaborate with teams working on innovative DeFi projects or security-focused Web3 infrastructure.
 
@@ -8,7 +8,7 @@ I’m currently open to work and looking to collaborate with teams working on in
 
 ## 🔍 About Me
 
-- 🔐 **Security Researcher**: Focused on auditing smart contracts and uncovering common vulnerabilities (reentrancy, precision loss, etc).
+- 🔐 **Security Researcher**: Focused on auditing smart contracts and uncovering vulnerabilities.
 - ⚙️ **Smart Contract Developer**: Building and testing with **Solidity** and **Foundry**.
 - 🔬 **Hands-on Learner**: Reproducing historical exploits and studying real audit reports from leading firms.
 - 🌐 **DeFi Enthusiast**: Deep interest in AMMs, lending protocols, and economic attack vectors.
@@ -25,17 +25,20 @@ I’m currently open to work and looking to collaborate with teams working on in
 - **Soft Skills**: Fast learner, self-driven, collaborative
 
 ---
+## 🌱 Learning
 
-## 📦 Projects
+I'm always looking to grow and improve my skills. Currently, I'm deeply focused on blockchain technology and actively working on projects that enhance my understanding of this rapidly evolving space.  
+My goals include learning the inner workings of decentralized systems, including:
 
-🚧 I'm currently working on a collection of small repos focused on:
+- Security protocols  
+- Feature development  
+- Real-world application functionality  
 
-- Vulnerability reproductions from real-world DeFi hacks  
-- Audit-style reports on CTFs and protocol challenges  
-- Templates and secure patterns for Solidity development  
+## 🚀 My Projects
 
-📁 **You can find all current and upcoming work here**:  
-👉 [github.com/santiagoib](https://github.com/santiagoib)
+You can check out my [GitHub repository](https://github.com/santiagoib) to see the projects I'm working on to transition into the blockchain industry.
+
+Each project is focused on building secure, efficient, and innovative decentralized applications—leveraging my technical growth to create meaningful contributions to the ecosystem.
 
 ---
 
@@ -49,4 +52,4 @@ Always open to talk about security, DeFi, or how to break a protocol (ethically,
 
 ---
 
-🚀 _"Security is not a checklist. It's a mindset."_  
+⚔️ _"Security it's a mindset."_  
