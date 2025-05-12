@@ -36,7 +36,7 @@ My goals include learning the inner workings of decentralized systems, including
 
 ## 🚀 My Projects
 
-You can check out my [GitHub repository](https://github.com/santiagoib) to see the projects I'm working on to transition into the blockchain industry.
+You can check out my [GitHub repository](https://github.com/santiagoib?tab=repositories) to see the projects I'm working on to transition into the blockchain industry.
 
 Each project is focused on building secure, efficient, and innovative decentralized applications—leveraging my technical growth to create meaningful contributions to the ecosystem.
 
