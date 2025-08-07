@@ -22,6 +22,7 @@ I’m currently open to work and looking to collaborate with teams working on in
 - **Security Tools**: Slither, Echidna, Aderyn  
 - **Testing & Dev**: Foundry, Docker  
 - **Other Tools**: Git, VS Code, Markdown  
+- **DEFI**: UniswapV2, UniswapV3, Curve, Aave V3, GMX
 - **Soft Skills**: Fast learner, self-driven, collaborative
 
 ---
