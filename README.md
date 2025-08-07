@@ -47,7 +47,7 @@ Each project is focused on building secure, efficient, and innovative decentrali
 
 - 📧 santiagoibz04@gmail.com  
 - 🧠 X/Twitter: [@zmettalz](https://twitter.com/zmettalz)  
-- 🔗 LinkedIn: [linkedin.com/in/](https://linkedin.com/in/) _(link pending if querés que lo agregue)_
+- 🔗 LinkedIn: [linkedin.com/in/](https://linkedin.com/in/)
 
 Always open to talk about security, DeFi, or how to break a protocol (ethically, of course).
 
