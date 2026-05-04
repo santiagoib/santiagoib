@@ -46,11 +46,11 @@ Each project is focused on building secure, efficient, and innovative decentrali
 ## 🤝 Let’s Connect
 
 - 📧 santiagoibz04@gmail.com  
-- 🧠 X/Twitter: [@zmettalz](https://twitter.com/zmettalz)  
+- 🧠 X/Twitter: [@zmettalz](mettal@duck.com)  
 - 🔗 LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/santiago-iba%C3%B1ez-b52619248/)
 
 Always open to talk about security, DeFi, or how to break a protocol (ethically, of course).
 
 ---
 
-⚔️ _"Security it's a mindset."_  
+
