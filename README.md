@@ -1,6 +1,6 @@
 #  Mettal — Security Researcher & Smart Contract Developer
 
-I'm an **Smart Contract Security Researcher** and **DeFi Developer** focused on understanding, building, and securing blockchain protocols. I’m actively learning by auditing real-world code, reproducing vulnerabilities, and developing tooling for secure smart contract development.
+I'm an **Security Researcher** and **DeFi Developer** focused on understanding, building, and securing blockchain protocols. I’m actively learning by auditing real-world code, reproducing vulnerabilities, and developing tooling for secure smart contract development.
 
 I’m currently open to work and looking to collaborate with teams working on innovative DeFi projects or security-focused Web3 infrastructure.
 
