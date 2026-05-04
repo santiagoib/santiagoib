@@ -9,11 +9,8 @@ I’m currently open to work and looking to collaborate with teams working on in
 ## 🔍 About Me
 
 - 🔐 **Security Researcher**: Focused on auditing smart contracts and uncovering vulnerabilities.
-- ⚙️ **Smart Contract Developer**: Building and testing with **Solidity** and **Foundry**.
-- 🔬 **Hands-on Learner**: Reproducing historical exploits and studying real audit reports from leading firms.
-- 🌐 **DeFi Enthusiast**: Deep interest in AMMs, lending protocols, and economic attack vectors.
-- 🧠 **Constantly Evolving**: I believe Web3 security is an ongoing challenge—and I'm here to keep up.
-
+- ⚙️ **Smart Contract Developer**: Building and testing with **Solidity** and **Foundry**
+  
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -22,7 +19,7 @@ I’m currently open to work and looking to collaborate with teams working on in
 - **Security Tools**: Slither, Echidna, Aderyn  
 - **Testing & Dev**: Foundry, Docker  
 - **Other Tools**: Git, VS Code, Markdown  
-- **DEFI**: UniswapV2, UniswapV3, Curve, Aave V3, GMX
+- **DEFI**: UniswapV2, UniswapV3, Uniswapv4, Curve, Aave V3, GMX
 - **Soft Skills**: Fast learner, self-driven, collaborative
 
 ---
@@ -45,8 +42,8 @@ Each project is focused on building secure, efficient, and innovative decentrali
 
 ## 🤝 Let’s Connect
 
-- 📧 santiagoibz04@gmail.com  
-- 🧠 X/Twitter: [@zmettalz](mettal@duck.com)  
+- 📧 mettal@duck.com 
+- 🧠 X/Twitter: [@zmettalz](https://x.com/zmettalz)  
 - 🔗 LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/santiago-iba%C3%B1ez-b52619248/)
 
 Always open to talk about security, DeFi, or how to break a protocol (ethically, of course).
